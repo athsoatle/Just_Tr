@@ -29,6 +29,7 @@ int main() {
 #endif
 	ios_base::sync_with_stdio(0);
 	cin.tie(NULL);
+	dfs();
 	system("PAUSE");
 	return 0;
 }
